@@ -3,7 +3,7 @@ import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 import org.junit.Test;
 
-import javax.xml.xpath.XPath;
+
 
 public class FindElements extends TestBase{
 
