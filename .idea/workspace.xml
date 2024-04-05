@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b01f6e4-bd4e-474c-b749-954739b7b926" name="Changes" comment="найти элемент2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FindElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FindElements.java" afterDir="false" />
-    </list>
+    <list default="true" id="3b01f6e4-bd4e-474c-b749-954739b7b926" name="Changes" comment="найти элемент исправил" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,7 +204,7 @@
       <updated>1712061864120</updated>
       <workItem from="1712061865278" duration="9304000" />
       <workItem from="1712245441235" duration="550000" />
-      <workItem from="1712246109798" duration="2561000" />
+      <workItem from="1712246109798" duration="3250000" />
     </task>
     <task id="LOCAL-00001" summary="найти элемент">
       <option name="closed" value="true" />
@@ -233,7 +230,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712245520307</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="найти элемент исправил">
+      <option name="closed" value="true" />
+      <created>1712316258133</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712316258133</updated>
+    </task>
+    <task id="LOCAL-00005" summary="найти элемент исправил">
+      <option name="closed" value="true" />
+      <created>1712316337440</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712316337440</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +266,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="найти элемент" />
     <MESSAGE value="найти элемент2" />
-    <option name="LAST_COMMIT_MESSAGE" value="найти элемент2" />
+    <MESSAGE value="найти элемент исправил" />
+    <option name="LAST_COMMIT_MESSAGE" value="найти элемент исправил" />
   </component>
 </project>
